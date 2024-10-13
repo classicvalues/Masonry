@@ -1,0 +1,12 @@
+85,125,Garage 1,door,no window
+50,45,Bedroom 1,door,window
+35,40,Bathroom 1,door,window
+45,35,Bathroom 2,door,window
+45,35,Bathroom 3,door,window
+70,125,Garage 2,door,no window
+55,135,Kitchen 1,door,no window
+75,45,Living Room 1,door,window
+140,35,Living Room 2,door,window
+150,130,Living Room 3,door,window
+Inner Wall Thickness,1.5
+Outer Wall Thickness,4.0
