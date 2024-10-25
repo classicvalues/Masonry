@@ -1,8 +1,8 @@
-25,20,BE1
-20,25,BA1
-15,25,BE2
+20,15,BE1
+20,20,BA1
+15,20,BE2
 30,20,BA2
 20,20,BA3
 Hall Thickness,15
 Inner Wall Thickness,1.0
-Outer Wall Thickness,3.5
+Outer Wall Thickness,2.5
